@@ -1,0 +1,12 @@
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\TESTDB1.exe
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\TESTDB1.dll
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\TESTDB1.deps.json
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\TESTDB1.runtimeconfig.json
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\TESTDB1.pdb
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\CsvHelper.dll
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\horacio\OneDrive\Desktop\SHMOLIK\API\TESTDB1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
